@@ -3,7 +3,7 @@
 ## Description
 I built this sound machine as a project given through FreeCodeCamp. I used VScode and the Live server extension to do all my coding. The sound machine is able to play 9 unique sounds by pressing the correct keys on a keyboard or by manually clicking the buttons. There is also an added feature which records the sounds played and provides the options to replay or clear the recording.
 
-I used React, Javascript, Bootstrap and Babel in order to practice Front End Development and using Front End Libraries. In the future, I hope to make the app more visually pleasing and add features that will let users add their own sounds to play.
+I used React, Javascript, Bootstrap and Babel in order to practice Front End Development and using Front End Libraries. I struggled mainly on understanding event handlers using React Hooks, but the tutorial explanation as well as experimenting with React helped me understand it a bit better.
 
 ## Usage
 
